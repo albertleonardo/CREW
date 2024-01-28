@@ -1,0 +1,37 @@
+
+# CURATED REGIONAL EARTHQUAKE WAVEFORMS DATASET
+# CREW
+
+# This is the series of steps and scripts used to collect and process the metadata and data in CREW
+
+1. Catalog download
+	down_ISC_cat.py
+
+2. Catalog manipulation
+	isc_to_csv.py	
+
+3. Waveform download
+	downloadwaveforms.py
+	downloadwaveforms_isc.py
+
+4. Merging data and metadata into hdf5 files
+	new_mseed_pd_hdf.py
+
+5. Adding coordinates to files
+	add_station_coordinates_to_hfile.py 	
+
+6. Correcting station coordinates in case of duplicate station names
+	purify_data_from_wrong_stations.py	
+
+7. Removing faulty/incomplete data
+	collect_safe_data.py
+
+8. Running CNN predictions for data cleanup
+	evaluate_dataset_arrival_time_residuals.py
+	collect_good_evaluated_data.py
+
+9. Collect metadata from hdf5 files
+	new_collect_metadata_from_hdf.py
+
+
+# Auxiliary files and scripts
