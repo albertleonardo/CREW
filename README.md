@@ -13,4 +13,7 @@ CREW is quality controlled dataset of earthquake waveforms and earthquake wave a
 ![Image Alt text](/two_example_from_crew.png)
 ![Image Alt text](/three_example_from_crew.png)
 
-We are finalizing the permanent storage place for the dataset, stay tuned.
+We are finalizing the permanent storage place for the dataset, stay tuned. You can see a demo of the data here:
+
+https://redivis.com/datasets/601a-5ygtwrrzb
+https://redivis.com/projects/k4k5-1hdesm2pc
