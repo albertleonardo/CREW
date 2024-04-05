@@ -22,3 +22,7 @@ https://redivis.com/projects/k4k5-1hdesm2pc
 
 # Interoperability
 We are working to get the dataset formatted to be compatible with Seisbench
+
+Check CREW_convert_to_Seisbench.ipynb for conversion details. There is a very small sample of the data in Seisbench format in the folder seisbench_conversion.
+
+This is temporary while we figure out the best way to make the dataset useful and easy to use.
