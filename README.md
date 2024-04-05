@@ -8,6 +8,7 @@ CREW is quality controlled dataset of earthquake waveforms and earthquake wave a
 
 ## In a Nutshell
 1.6 Million examples with both P and S arrival times recorded on three components for five minutes. This is what you will find:
+
 Check CREW_demo.ipynb for details!
 ![Image Alt text](/images/one_example_from_crew.png)
 ![Image Alt text](/images/two_example_from_crew.png)
