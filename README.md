@@ -17,3 +17,7 @@ We are finalizing the permanent storage place for the dataset, stay tuned. You c
 
 https://redivis.com/datasets/601a-5ygtwrrzb
 https://redivis.com/projects/k4k5-1hdesm2pc
+
+
+# Interoperability
+We are working to get the dataset formatted to be compatible with Seisbench
