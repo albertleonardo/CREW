@@ -14,8 +14,10 @@ Check CREW_demo.ipynb for details!
 ![Image Alt text](/images/two_example_from_crew.png)
 ![Image Alt text](/images/three_example_from_crew.png)
 
-We are finalizing the permanent storage place for the dataset, stay tuned. You can see a demo of the data here:
+CREW is hosted in Stanford University's Redivis:
+https://redivis.com/datasets/1z6w-e1w70hpmt?v=1.0
 
+You can see a demo of the data here:
 https://redivis.com/datasets/601a-5ygtwrrzb
 https://redivis.com/projects/k4k5-1hdesm2pc
 
